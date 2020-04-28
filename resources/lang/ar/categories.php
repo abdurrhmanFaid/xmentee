@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'categories' => ':band Categories',
+    'post' => 'Post',
+    'edit' => 'Edit',
+    'create_in' => 'Create a category in \':band\'',
+    'empty' => 'There is no categories in this band',
+    'save' => 'Save category',
+    'name' => 'Category Name',
+    'description' => 'Describe your category',
+    'created' => 'Category Created Successfully',
+    'create' => 'Create a category',
+    'update' => 'Update',
+    'edit_category' => 'Edit :category in :band',
+    'deleted' => 'Category Deleted Successfully',
+    'updated' => 'Category Updated Successfully',
+    'delete_category' => 'Delete :category',
+    'lessons' => ':category Lessons',
+    'lessons_count' => 'Found :count lessons in :category',
+    'browse_lessons' => 'Browse All lessons',
+    'posts' => ':category Posts',
+    'posts_count' => 'Found :count posts in :category',
+    'browse_posts' => 'Browse All Posts',
+    'delete_category_confirmation' => 'Are you sure to delete :category ?!. Deleting the category will delete all entire posts in attached to it. So be careful',
+];

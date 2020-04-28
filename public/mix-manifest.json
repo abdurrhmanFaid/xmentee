@@ -1,0 +1,6 @@
+{
+    "/js/admin.js": "/js/admin.js",
+    "/js/guest.js": "/js/guest.js",
+    "/js/instructor.js": "/js/instructor.js",
+    "/js/student.js": "/js/student.js"
+}
